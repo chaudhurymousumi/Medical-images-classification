@@ -1,7 +1,7 @@
 # Medical-images-classification
 Medical images classification using Convolutional Neural Network 
 
-Tensorflow, Keras, Python 
+Tensorflow, Keras, Python, Matplotlib, Numpy, Pandas, seaborn, 
 
 ![image](https://user-images.githubusercontent.com/80985027/182948743-09a7f3ea-9c20-42eb-a101-9439e37e20ad.png)
 
